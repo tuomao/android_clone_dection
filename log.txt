@@ -1,0 +1,26 @@
+2017-05-24 12:56:19,682 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -transformAndroidManifest /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:57:02,502 - confuseapk.py[line:45] - INFO: transformAndroidManifest 混淆算法成功
+2017-05-24 12:57:02,502 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -renameclasses /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:57:36,790 - confuseapk.py[line:45] - INFO: renameclasses 混淆算法成功
+2017-05-24 12:57:36,791 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -reverseorder /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:58:11,751 - confuseapk.py[line:45] - INFO: reverseorder 混淆算法成功
+2017-05-24 12:58:11,752 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -encString /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:58:29,420 - confuseapk.py[line:47] - ERROR: encString 混淆算法失败
+2017-05-24 12:58:29,420 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -encArrays /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:58:37,823 - confuseapk.py[line:47] - ERROR: encArrays 混淆算法失败
+2017-05-24 12:58:37,823 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -remDebugInfo /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:59:12,015 - confuseapk.py[line:45] - INFO: remDebugInfo 混淆算法成功
+2017-05-24 12:59:12,016 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -reorder /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 12:59:50,864 - confuseapk.py[line:45] - INFO: reorder 混淆算法成功
+2017-05-24 12:59:50,864 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -nontrivialjunk /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:00:35,191 - confuseapk.py[line:45] - INFO: nontrivialjunk 混淆算法成功
+2017-05-24 13:00:35,192 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -insertnops /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:01:09,704 - confuseapk.py[line:45] - INFO: insertnops 混淆算法成功
+2017-05-24 13:01:09,705 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -insertFunctionIndirection /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:01:43,746 - confuseapk.py[line:45] - INFO: insertFunctionIndirection 混淆算法成功
+2017-05-24 13:01:43,747 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -doci /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:02:16,985 - confuseapk.py[line:45] - INFO: doci 混淆算法成功
+2017-05-24 13:02:16,985 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -renameMethods /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:03:20,314 - confuseapk.py[line:45] - INFO: renameMethods 混淆算法成功
+2017-05-24 13:03:20,315 - confuseapk.py[line:38] - INFO: /home/tuomao/Desktop/anroid_security/android-av/droidc -renameFields /home/tuomao/Downloads/com.douban.daily_181.apk temp.apk com.douban.daily
+2017-05-24 13:04:12,180 - confuseapk.py[line:45] - INFO: renameFields 混淆算法成功
